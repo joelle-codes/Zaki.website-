@@ -44,12 +44,7 @@ h1, p {
     
 }
 
-.hero {
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 a {
     color: black;
    
